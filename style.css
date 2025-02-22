@@ -1,0 +1,36 @@
+#s{color:white; background: mediumseagreen; border-radius: 3px; border: none;
+  height: 30px; width: 80px; font-weight:bold; font-size:10px; trasition:0.2s;}
+  #R{background: black; 
+  color: white;  height: 30px; width:84px;
+border: none; font-size: 10px; transition: 0.2s;
+}
+#s:active{color: yellow;}
+#R:hover{opacity: 0.5;}
+#A{color: black;  background: orange;
+border-radius: 15px;  height:26px;
+width:140px; border:none;
+  font-size:10px;
+}
+#A:hover{background-color: burlywood}
+#G{color: white; background: rebeccapurple;
+border:none; font-size: 10px; width:84px;
+  height:30px; border-radius: 2px;
+  margin-top:20px; transition: 0.5s;
+}
+#G:active{background-color: hotpink;}
+#D{color:black; background:white;
+font-size: 10px;
+height: 30px; width:84px; border-style:solid;
+}
+#D:hover{box-shadow: 5px 5px 10px black;}
+#Ap{color:white; background: royalblue;
+font-size: 10px;
+height:30px; width: 169px; border: none;
+font-weight:bold;}
+#Ap:active
+#S1{color: midnightblue;}
+#S1:hover{background-color: royalblue }
+#S1:hover{color: white;}
+.border-16{ border-radius: 15px
+  
+}
