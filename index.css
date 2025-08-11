@@ -1,0 +1,10 @@
+table {
+border: 1px solid rgb(159, 4, 128);
+}
+td{
+border: 1px solid rgb(159, 4, 128);
+padding: 4px; ;
+}
+.age{
+ text-align: center;   
+}
